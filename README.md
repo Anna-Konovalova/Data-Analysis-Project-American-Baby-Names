@@ -55,3 +55,44 @@ The data is provided by the United States Social Security Administration, which 
 </tr>
 </tbody>
 </table>
+
+Data Analysis Summary
+------
+## 1. Which American names can be considered classic?
+<br/>
+![graph_01](https://user-images.githubusercontent.com/78367070/202752138-ddd6944b-a9a1-4364-a411-e32961fd7ff0.png)
+<br/>
+## 3. What are the top-ranked female names since 1920?
+<br/>
+![graph_03](https://user-images.githubusercontent.com/78367070/202752993-7192f6da-9192-4d7c-9bed-50e0a1390549.png)
+<br/>
+## 5. The rise of the name "Olivia"
+<br/>
+![graph_05](https://user-images.githubusercontent.com/78367070/202753189-e04e8cf1-5b0a-4c2b-9d36-0a78bbaf0086.png)
+<br/>
+## 7. What are the top male names over the years?
+<br/>
+![graph_07](https://user-images.githubusercontent.com/78367070/202753464-dad0bca8-09d0-4420-844a-33d2e97f5e59.png)
+<br/>
+Noah and Liam have ruled the roost in the last few years, but it looks like Michael and Jacob have also spent a good number of years as the top name.
+<br/>
+## 8. Which male names have been the most popular for the longest number of years?
+<br/>
+![graph_08](https://user-images.githubusercontent.com/78367070/202753744-a4a3151e-930f-4278-92cc-9e208500c8ba.png)
+<br/>
+The name Michael has been at the top for more than 40 years - that is over 20 years longer then the next most popular male name, Robert. This result, combined with the graph before that shows most popular male names over the years, indicates that prior to 2000s a popular male name was given to a lot more babies and names also stayed popular for longer. This is compared to the most recent years. This suggests that there is a bigger variety in the chosen names, as well as people's preferences for names change quicker in the recent years.
+<br/>
+## 9. What are the top female names over the years?
+<br/>
+![graph_09](https://user-images.githubusercontent.com/78367070/202754073-fc557709-24e5-4a39-b09a-7eb6605c2fc8.png)
+<br/>
+It can be seen that most recently the names Emily, Emma and Olivia stayed at the top. However, prior to 1970s the name Mary has ruled for a considerable number of years - almost every year between 1920 and 1960, giving place to Linda to several years in 1940s.
+
+This graph mimics the one for male names. There is a bigger variety in the chosen names, as well as people's preferences for names change quicker in the recent years.
+<br/>
+## 10. Which female names have been the most popular for the longest number of years?
+<br/>
+![graph_10](https://user-images.githubusercontent.com/78367070/202754407-cef2a05b-25a8-4f9c-a297-ee4a9023a483.png)
+<br/>
+As noticed above, the name Mary has considerably beaten every other female name by the number of years it has been the most popular.
+<br/>
