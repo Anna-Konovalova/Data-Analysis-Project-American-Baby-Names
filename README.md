@@ -96,4 +96,3 @@ This graph mimics the one for male names. There is a bigger variety in the chose
 &nbsp;
 As noticed above, the name Mary has considerably beaten every other female name by the number of years it has been the most popular.
 &nbsp;
- 
