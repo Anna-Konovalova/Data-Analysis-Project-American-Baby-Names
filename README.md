@@ -80,7 +80,7 @@ Noah and Liam have ruled the roost in the last few years, but it looks like Mich
 &nbsp;
 ![graph_08](https://user-images.githubusercontent.com/78367070/202753744-a4a3151e-930f-4278-92cc-9e208500c8ba.png)
 &nbsp;
-The name Michael has been at the top for more than 40 years - that is over 20 years longer then the next most popular male name, Robert. This result, combined with the graph before that shows most popular male names over the years, indicates that prior to 2000s a popular male name was given to a lot more babies and names also stayed popular for longer. This is compared to the most recent years. This suggests that there is a bigger variety in the chosen names, as well as people's preferences for names change quicker in the recent years.
+The name Michael has been at the top for more than 40 years - that is over 20 years longer then the next most popular male name, Robert. This result, combined with the graph before that shows most popular male names over the years, indicates that prior to 2000s a popular male name was given to a lot more babies and names stayed popular for longer. This is compared to the most recent years. This suggests that there is a bigger variety in the chosen names, as well as people's preferences for names change quicker in the recent years.
 &nbsp;
 ## 9. What are the top female names over the years?
 &nbsp;
